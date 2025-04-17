@@ -1,0 +1,6 @@
+[Реализация ER-диаграммы в Laravel миграциях.docx](https://github.com/user-attachments/files/19797423/ER-.Laravel.docx)
+[Полная реализация приложения на Laravel с ER-диаграммой, миграциями и документацией.docx](https://github.com/user-attachments/files/19797422/Laravel.ER-.docx)
+[Подробное руководство по установке и настройке Laravel.docx](https://github.com/user-attachments/files/19797421/Laravel.docx)
+[подробное объяснение, куда и как вставлять каждый компонент в Laravel-приложении.docx](https://github.com/user-attachments/files/19797420/Laravel-.docx)
+[Для выполнения задания вам потребуется выполнить несколько этапов, разбитых по модулям. Давайте разберём каждый модуль отдельно..docx](https://github.com/user-attachments/files/19797419/default.docx)
+[ER-диаграмма в третьей нормальной форме (3NF).docx](https://github.com/user-attachments/files/19797418/ER-.3NF.docx)
