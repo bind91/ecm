@@ -4,4 +4,4 @@
 [подробное объяснение, куда и как вставлять каждый компонент в Laravel-приложении.docx](https://github.com/user-attachments/files/19797420/Laravel-.docx)
 [Для выполнения задания вам потребуется выполнить несколько этапов, разбитых по модулям. Давайте разберём каждый модуль отдельно..docx](https://github.com/user-attachments/files/19797419/default.docx)
 [ER-диаграмма в третьей нормальной форме (3NF).docx](https://github.com/user-attachments/files/19797418/ER-.3NF.docx)
-SQLSTATE[HY000] [1045] Access denied for user 'student'@'localhost' (using password: YES) (Connection: mysql, SQL: select * from `sessions` where `id` = IsZOIb3yuafza6PRZyPVSHb54pay4lpOuWsGL7ik limit 1)
+SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost' (Connection: mysql, SQL: select * from `sessions` where `id` = IsZOIb3yuafza6PRZyPVSHb54pay4lpOuWsGL7ik limit 1)
